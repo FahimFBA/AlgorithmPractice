@@ -1,3 +1,4 @@
+# Time: O(NlogN) and Space: O(1)
 # using array sorting
 def twoNumberSum(array, targetSum):
     array.sort()
